@@ -23,8 +23,8 @@ connectDB()
 // List of allowed origins
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://assignment-submission-portal.vercel.app",
-  "https://assignment-submission-portal-frontend.vercel.app",
+  "https://hackathon-backend-beta.vercel.app",
+  "https://hackahthon-frontend.vercel.app",
 ];
 
 // CORS configuration
